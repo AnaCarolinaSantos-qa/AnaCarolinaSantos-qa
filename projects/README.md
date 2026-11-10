@@ -18,7 +18,7 @@ Este catálogo aponta para repositórios públicos originais e evidencia o tipo 
 
 ## Manutenção pública recente
 
-Em novembro de 2026, dez PRs de manutenção foram mesclados em repositórios públicos. Sete checks de CI associados a código ou configuração passaram. Os outros três PRs atualizaram somente documentação e não têm uma suíte executável no GitHub Actions.
+Em novembro de 2026, dez PRs de manutenção foram mesclados em repositórios públicos. Sete checks de CI associados a esses PRs passaram. Os outros três PRs atualizaram somente documentação e não têm uma suíte executável no GitHub Actions.
 
 ### CI, automação e configuração
 
