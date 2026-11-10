@@ -1,10 +1,8 @@
 # Ana Carolina Santos
 
-**Quality Engineer | Estratégia de testes e automação | QA desde 2010**
+**QA Lead | Estratégia de qualidade e Quality Engineering | QA desde 2010**
 
-Atuo em qualidade de software desde 2010. Minha experiência está em Quality Engineering, estratégia de testes, automação web, mobile e de APIs, performance, observabilidade e arquitetura de software. Hoje amplio essa base para AI Engineering aplicada à qualidade, com estudos em avaliação de LLMs, RAG, context engineering e sistemas multiagentes.
-
-Minha especialidade estabelecida é Quality Engineering e automação. AI Engineering aplicada à qualidade é minha frente de expansão, em exploração pública.
+Atuo em qualidade de software desde 2010, conectando estratégia, gestão de riscos e práticas de Quality Engineering. Minha experiência inclui automação web, mobile e de APIs, performance, observabilidade e arquitetura de software. Também estudo aplicações de AI Engineering para qualidade, incluindo avaliação de LLMs e RAG.
 
 [English version](#english) · [README completo em inglês](README.en.md)
 
@@ -34,7 +32,7 @@ Exploração em andamento de avaliação de LLMs, RAG, context engineering e sis
 - [Testes_API_NodeJS](https://github.com/AnaCarolinaSantos-qa/Testes_API_NodeJS) — exercícios de testes de API com Node.js, Mocha, Chai e Supertest; CI atualizado e aprovado no [PR #2](https://github.com/AnaCarolinaSantos-qa/Testes_API_NodeJS/pull/2).
 - [zapLink](https://github.com/AnaCarolinaSantos-qa/zapLink) — aplicação de agenda virtual com Vue.js, Node.js e MongoDB; testes da API executados no CI com banco MongoDB efêmero. [PR #1](https://github.com/AnaCarolinaSantos-qa/zapLink/pull/1).
 - [CypressCucumber](https://github.com/AnaCarolinaSantos-qa/CypressCucumber) — automação Cypress/Cucumber de formulário local, com [CI aprovado](https://github.com/AnaCarolinaSantos-qa/CypressCucumber/actions/runs/42867393049).
-- [robot_framework_qa_starter](https://github.com/AnaCarolinaSantos-qa/robot_framework_qa_starter) — laboratório de automação em evolução. A estrutura cobre várias frentes, mas os exemplos atuais de API/UI ainda são demonstrações; consulte a [auditoria e o escopo verificado](docs/portfolio-strategy.md#auditoria-do-candidato-anterior).
+- [robot_framework_qa_starter](https://github.com/AnaCarolinaSantos-qa/robot_framework_qa_starter) — laboratório de automação em evolução. A estrutura cobre várias frentes, mas os exemplos atuais de API/UI ainda são demonstrações.
 - [rocklov](https://github.com/AnaCarolinaSantos-qa/rocklov) — projeto de curso com cenários de API e web em Ruby/RSpec e Cucumber; depende do ambiente Jenkins descrito no [README](https://github.com/AnaCarolinaSantos-qa/rocklov).
 
 ## Contribuições recentes em projetos públicos
@@ -45,7 +43,6 @@ Em novembro de 2026, atualizei CI, configuração de testes e documentação em 
 
 ## Portfólio
 
-- [Estratégia do portfólio](docs/portfolio-strategy.md)
 - [Política de propriedade intelectual](docs/intellectual-property.md)
 - [Estudos de caso](case-studies/README.md)
 - [Arquitetura](architecture/README.md)
