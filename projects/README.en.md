@@ -18,7 +18,7 @@ This catalog links to the original public repositories and describes observable 
 
 ## Recent public maintenance
 
-In November 2026, ten maintenance PRs were merged across public repositories. Seven associated CI checks passed. The other three PRs updated documentation only and do not have an executable suite in GitHub Actions.
+In November 2026, ten maintenance PRs were merged across public repositories. Seven CI checks associated with these PRs passed. The other three PRs updated documentation only and do not have an executable suite in GitHub Actions.
 
 ### CI, automation, and configuration
 
